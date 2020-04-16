@@ -8,7 +8,7 @@ class LandingPage extends Component{
                 <Grid className="landing-grid">
                     <Cell col={12}>
                         <img 
-                            src={require("../img/archanababu.jpg")}
+                            src={require("../img/archanababu.png")}
                             alt="archana"
                             className="archana-img"
                         />
