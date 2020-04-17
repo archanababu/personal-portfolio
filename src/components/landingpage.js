@@ -13,7 +13,7 @@ class LandingPage extends Component{
                             className="archana-img"
                         />
                         <div className="banner-text">
-                            <h1>Automation Test Engineer</h1>
+                            <h1>Software Engineer</h1>
                         <hr/>
                         <p>
                             HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJs | Express | MongoDB

@@ -59,6 +59,12 @@ height: 100%;
   padding-right: 5rem;
 }
 
+.resume-right-col{
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
 .archana-img{
   height: 250px;
   padding-top: 5em;
